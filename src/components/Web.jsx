@@ -70,7 +70,7 @@ export default function Web() {
             <Link to="/web">Home</Link>
           </li>
           <li>
-            <a href="#">Books</a>
+            <Link to="/book">Books</Link>
           </li>
           <li>
             <a href="#">About</a>
